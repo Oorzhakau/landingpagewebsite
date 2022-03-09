@@ -10,26 +10,32 @@ ___
 
 ## Установка:
 1. Клонируйте репозиторий на локальную машину.
->``git clone https://github.com/Oorzhakau/landingpagewebsite``
+
+``git clone https://github.com/Oorzhakau/landingpagewebsite``
 2. Установите виртуальное окружение.
+
 ``python -m venv venv`` 
 
  или
  
  ``python3 -m venv venv``
 3. Активируйте виртуальное окружение.
-> ``source venv\Scripts\activate``
-> 
-> или
-> 
-> ``venv\bin\activate``
-4. Установите зависимости.
-> ``pip install -r requirements.txt``
-5. Запустите локальный сервер.
-> ``python manage.py runserver``
-6. Создаете суперюзера.
-> ``python manage.py createsuperuser``
-7. Задаем chat_id и токен бота через CRM систему.
+
+``source venv\Scripts\activate``
+
+или
+
+``venv\bin\activate``
+5. Установите зависимости.
+
+``pip install -r requirements.txt``
+6. Запустите локальный сервер.
+
+``python manage.py runserver``
+7. Создаете суперюзера.
+
+``python manage.py createsuperuser``
+8. Задаем chat_id и токен бота через CRM систему.
 
 ## Технологии
 Djagno==4.0
