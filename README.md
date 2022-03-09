@@ -10,7 +10,8 @@
  * Python 3.7
  * Djagno 4.0
  * Sqlite3
-## Установка:
+
+### Установка:
 1. Клонируйте репозиторий на локальную машину.
 
 ``git clone https://github.com/Oorzhakau/landingpagewebsite``
