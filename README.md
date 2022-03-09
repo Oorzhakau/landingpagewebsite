@@ -59,4 +59,4 @@ python manage.py createsuperuser
 
 ## Список исполнителей:
 
-**[Александр Ооржак](https://github.com/Oorzhakau)**
+[Александр Ооржак](https://github.com/Oorzhakau)
