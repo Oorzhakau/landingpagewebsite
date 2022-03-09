@@ -29,13 +29,6 @@ python3 -m venv venv
 ```
 source venv\Scripts\activate
 ```
-
-или
-
-```
-source venv\bin\activate
-```
-
 5. Установите зависимости.
 
 ```
