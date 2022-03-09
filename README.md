@@ -12,11 +12,11 @@ ___
 1. Клонируйте репозиторий на локальную машину.
 >``git clone https://github.com/Oorzhakau/landingpagewebsite``
 2. Установите виртуальное окружение.
-> ``python -m venv venv`` 
-> 
-> или
-> 
-> ``python3 -m venv venv``
+``python -m venv venv`` 
+
+ или
+ 
+ ``python3 -m venv venv``
 3. Активируйте виртуальное окружение.
 > ``source venv\Scripts\activate``
 > 
